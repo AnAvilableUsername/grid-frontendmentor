@@ -33,7 +33,9 @@ body {
 
 
 .main {
-display: grid;
+    width:85%;
+
+    display: grid;
     grid-template-areas:
         'a a b e'
         'c d d e'
